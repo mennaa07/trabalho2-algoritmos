@@ -57,7 +57,7 @@ int main()
        
     }
     printf("----------------------------\n");
-    printf("Total de vendas: %d\n", soma); // Mostra a soma final dos valores
+    printf("Total vendido: %d\n", soma); // Mostra a soma final dos valores
     
 }
 
